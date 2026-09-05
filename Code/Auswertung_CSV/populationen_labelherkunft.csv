@@ -1,0 +1,21 @@
+basis,status,n,anteil_prozent
+vereinigung_alle_jahre,"A 2016er Urteil, nicht politisch -> drin",13678,43.72
+vereinigung_alle_jahre,"B 2016er Urteil, politisch -> raus",978,3.13
+vereinigung_alle_jahre,"C imputiert, nicht politisch -> drin",14251,45.55
+vereinigung_alle_jahre,"D imputiert, politisch -> raus",600,1.92
+vereinigung_alle_jahre,E uneindeutig oder nie gelabelt -> raus,1514,4.84
+vereinigung_alle_jahre,F kein LLM-Eintrag -> raus,263,0.84
+landschaft_2016,"A 2016er Urteil, nicht politisch -> drin",13647,82.12
+landschaft_2016,"B 2016er Urteil, politisch -> raus",976,5.87
+landschaft_2016,"C imputiert, nicht politisch -> drin",1651,9.94
+landschaft_2016,"D imputiert, politisch -> raus",47,0.28
+landschaft_2016,E uneindeutig oder nie gelabelt -> raus,177,1.07
+landschaft_2016,F kein LLM-Eintrag -> raus,120,0.72
+landschaft_2024,"A 2016er Urteil, nicht politisch -> drin",13239,45.89
+landschaft_2024,"B 2016er Urteil, politisch -> raus",903,3.13
+landschaft_2024,"C imputiert, nicht politisch -> drin",12748,44.19
+landschaft_2024,"D imputiert, politisch -> raus",518,1.8
+landschaft_2024,E uneindeutig oder nie gelabelt -> raus,1299,4.5
+landschaft_2024,F kein LLM-Eintrag -> raus,141,0.49
+fixe_partition_2016,"A 2016er Urteil, nicht politisch -> drin",9687,88.54
+fixe_partition_2016,"C imputiert, nicht politisch -> drin",1254,11.46

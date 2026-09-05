@@ -1,0 +1,4 @@
+vergleich,n_gemeinsam_geclustert,ARI,AMI,k_aligned,k_solo_a,k_solo_b,rausch_aligned,rausch_solo_a,rausch_solo_b
+aligned vs solo_a,10545,0.8804,0.9676,95,104,110,0.2848,0.2029,0.2073
+aligned vs solo_b,10346,0.8599,0.9564,95,104,110,0.2848,0.2029,0.2073
+solo_a vs solo_b (NULLNIVEAU),11310,0.9752,0.9774,95,104,110,0.2848,0.2029,0.2073

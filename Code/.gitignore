@@ -1,0 +1,17 @@
+# Zwischenspeicher der kNN-Rechnungen, entsteht beim Lauf neu
+cache_knn/
+cache_knn_lifestyle/
+
+# Ausgaben und Artefakte
+Rplots.pdf
+*.html
+*_cache/
+*_files/
+
+# R und Python
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

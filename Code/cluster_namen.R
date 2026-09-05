@@ -1,0 +1,46 @@
+# Benennung der Cluster der fixen 2016er-Partition. Handarbeit auf Grundlage der
+# kennzeichnenden Woerter und, wo die Woerter in die Irre führen, der
+# Mitgliederliste. Liegt hier, damit Tabellen und Abbildungen nie verschiedene
+# Namen für dasselbe Cluster zeigen.
+
+namen <- tibble::tribble(
+  ~cluster, ~thema,
+   2, "Krypto",
+   3, "NSFW",
+   4, "Australien",
+   6, "Kanada",
+   8, "Texas",
+  11, "Motorsport",
+  14, "Cricket und Indien",
+  16, "Minecraft",
+  17, "Vereinigtes Königreich",
+  20, "Streetwear",
+  23, "Drogen → Nüchternheit",
+  24, "Nebenverdienste und Schnäppchen",
+  26, "Anime und Manga",
+  30, "Comedy-Podcast",
+  31, "Star Wars",
+  33, "Bücher",
+  36, "Fernsehserien",
+  38, "Militär",
+  41, "Reddit-Meta und Moderation",
+  42, "Luftfahrt",
+  45, "Pazifischer Nordwesten",
+  52, "Heimnetzwerke",
+  53, "YouTube-Kanäle",
+  54, "Gärtnern",
+  56, "Kalifornien",
+  57, "Fitness und Ernährung",
+  60, "Wissenschaftsfragen",
+  63, "Humor und Memes",
+  64, "True Crime",
+  71, "Counter-Strike",
+  73, "Elektronik und 3D-Druck",
+  77, "Shooter",
+  81, "Vormedizin → Pflege",
+  83, "Pokémon",
+  84, "Strategiespiele",
+  87, "Fighting Games",
+  88, "Nintendo",
+  92, "Sammelcluster (heterogen)")
+
